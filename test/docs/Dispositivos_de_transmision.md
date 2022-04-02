@@ -2,7 +2,8 @@
 Una dirección IP es un número, que sirve para identificar de forma única a un dispositivo dentro de la red.
 La dirección IPv4 es un numero de 32 bits que identifica de forma exclusiva una interfaz de red en un sistema, tal como se explica en aplicación de las direcciones IP a las interfaces de la red. Una dirección IPv4 se escribe en dígitos decimales, y se divide en cuatro campos de 8 bits separados por puntos.
 
-![Image text](/Imagenes/ipv4.jpg)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277586416_724557605577367_6231186254466409603_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=G4GR6H13GYUAX-dKLgg&_nc_ht=scontent.fcue10-1.fna&oh=00_AT8slN72dyRbgjjvpOxuYNplVthrxpq48vDRhm7HY9WvSQ&oe=624CEC67)
+
 
 El direccionamiento IP proporciona un mecanismo para la asignación de identificadores a cada dispositivo conectado a una red. 
 
@@ -41,9 +42,11 @@ Ejemplo para una dirección IP de clase E:
 Es la combinación de bits para delimitar una red de computadoras. Se trata de 32 bits separados en 4 octetos (como las direcciones IP) su función es indicar a los dispositivos qué parte de la dirección IP corresponde a la red/subred y cual al host.
 Mediante la máscara de red, un dispositivo sabrá si debe enviar un paquete dentro o fuera de la red en la que está conectado. La máscara de red se representa colocando en 1 los bits de red y en cero los bits de host. 
 
-![Image text](/Imagenes/tipoA.png)
-![Image text](/Imagenes/tipoB.png)
-![Image text](/Imagenes/tipoC.png)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277563068_724557755577352_1000881864191499481_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=2v__F1POIQ0AX-lk0dB&_nc_ht=scontent.fcue10-1.fna&oh=00_AT80qJa1n9W--tp5kuJ3k4hjynNnJihZC_Eyos_G2dPrlw&oe=624D8B9E)
+
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277571417_724557772244017_5749783295238405566_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=NztUNuwOOJ4AX-A0BlV&_nc_ht=scontent.fcue10-1.fna&oh=00_AT-oZXKKn2OCRM9ZK5bdzLh8TFjr8G_jI0KbROo4CzC7hA&oe=624CD11B)
+
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277778784_724557795577348_8754553997937313642_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=k9aBZLJGTYwAX8VHcZ-&_nc_ht=scontent.fcue10-1.fna&oh=00_AT9Yb6B79CiCSeZciNYGJ7NQtvv6a_DeSs2BLpQd7-I6cQ&oe=624C2309)
 
 ##Clases 
 Conceptualmente una dirección IPv4 tiene dos partes el prefijo y el host definidos por la máscara, sin tener consideración de la clase (A, B, o C). 
@@ -56,11 +59,11 @@ Es decir, una dirección Classful está definida por una clase específica en la
 ##Prefijo de subred
 Es el número de bits que representa la dirección IP. La longitud del prefijo es el número de bits establecido en 1 en la máscara de subred. Está escrito en «notación de barra», que se observa mediante una barra diagonal (/) seguida del número de bits establecido en 1.
 
-![Image text](/Imagenes/mascarared.png)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277563155_724557638910697_1785199284200903763_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=UZXWITIq7FkAX8vR_sd&_nc_ht=scontent.fcue10-1.fna&oh=00_AT_Jd9tO9DswuyCaOeN0jQPL4mV3HecFaEpwdGWcN3YG9A&oe=624DF10F)
 
 ##Clasificacion de direciones IPV4
 
-![Image text](/Imagenes/direcionesipv4.png)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277806236_724557792244015_3788331445985599611_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=_bgICZxN2dsAX9N3z2j&_nc_ht=scontent.fcue10-1.fna&oh=00_AT9TXsMYbYjEFq5LlUjGHMyzI-Kx3tSVzc1H4UsRdwjK-w&oe=624D096B)
 
 ##Ejemplo de plan de direccionamiento de una red
 El plan de direcciones incluye determinar lo siguiente:
@@ -71,16 +74,16 @@ El plan de direcciones incluye determinar lo siguiente:
 - Cuáles son los hosts que requerirán direcciones IPv4 estáticas y cuáles pueden utilizar DHCP
         
 
-![Image text](/Imagenes/direccionamientored.png)
-
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277564953_724557745577353_3383803454560922221_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=ruaFQEI2YlsAX9PydPN&_nc_ht=scontent.fcue10-1.fna&oh=00_AT9H8Y1BZ2v5GbOHhLihLFMaEEojP3exci_ktutio91zRA&oe=624CD159)
 ##**Internet de las cosas**
 El internet de las cosas básicamente se refiere a que elementos físicos de un hogar o una empresa tienen la capacidad de interconectarse a la red para intercambiar datos con otros dispositivos y cumplir tareas específicas propias de su diseño con el único fin de mejorar la calidad de vida de las personas.
 
 ###Aplicaciones 
-![Image text](/Imagenes/aplicaciones.png)
-![Image text](/Imagenes/aplicaciones1.png)
-![Image text](/Imagenes/aplicaciones2.png)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277705807_724557642244030_9130101881771183172_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=EZ3n7rWhWucAX8DC5TK&_nc_ht=scontent.fcue10-1.fna&oh=00_AT9Wfoe9mWtxV1yFBc0UE_Y0ZBvdTDjQjtVZfo18H701EA&oe=624C1A5B)
 
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277806364_724557635577364_2665909587306572784_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=Uj7sv9707ioAX_J1Rtz&_nc_ht=scontent.fcue10-1.fna&oh=00_AT80KwTe6hkcsqNuY82LZX4bDYGyf9kaaI8w0zpHxJ-W9g&oe=624DE045)
+
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277782957_724557645577363_1422103579139843505_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=hx1Hwe_W2W0AX9NJjq_&_nc_ht=scontent.fcue10-1.fna&oh=00_AT-Iabct44yylD5rk9foz4_OU-f6CvOVZ1swnZIAQyK8kA&oe=624D6EDE)
 ###Características del internet de las cosas 
 
 El internet de las cosas se caracteriza por su estructura de diseño y su conectividad con otros dispositivos, portando un tamaño pequeño, formado por un procesador y sensores con el único fin de interactuar con el medio que los rodea para recopilar datos importantes sobre las acciones y automatizar sus procesos.
@@ -142,7 +145,8 @@ Es un acrónimo que significa “Person to Person” o “Persona a Persona” e
 - Compartir archivos de cualquier tipo.
 - Enrutamientos anónimo.
 
-![Image text](/Imagenes/conexiones.png)
+![Visualización](https://scontent.fcue10-1.fna.fbcdn.net/v/t39.30808-6/277779624_724557662244028_8503474722113767126_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=4EyKs6hBgcYAX9Vq0vC&_nc_ht=scontent.fcue10-1.fna&oh=00_AT8vGG4A8IqC4VtR9alT6MjRMv3XFToYEQ9JK7Elhhi0Fw&oe=624C6090)
+
 
 
 
