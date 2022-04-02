@@ -1,4 +1,4 @@
-##**Mantenimiento de Ordenadores**
+# *Mantenimiento de Ordenadores**
 
 Las computadoras necesitan ser “limpiados” para mantenerse en perfectas condiciones.La vida útil de una computadora se puede prolongar.El polvo, calor, humedad, cargas eléctricas son puntos a tener en cuenta en el mantenimiento.Las “impurezas” de la energía eléctrica causan daños progresivos a nuestra PC.El encendido y apagado permanente de la PC es dañino para la PC.Los virus informáticos impiden un normal funcionamiento de la computadora.Los archivos temporales cargan demasiado la memoria de la PC.
 
@@ -82,7 +82,7 @@ Pero es necesario que tu pc se encuentre en un lugar adecuado donde no tenga muc
 - De mantenimiento a sus servidores.
 - Revise el hardware.
 
-##![Image text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIRE_LzTZ72MtbOzkPbHQ_vP-gessFu8YsD19-EX_IdmAuqHa0cAMLo9oVWRg2Nm8sj0&usqp=CAUjpg)
+## ![Image text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIRE_LzTZ72MtbOzkPbHQ_vP-gessFu8YsD19-EX_IdmAuqHa0cAMLo9oVWRg2Nm8sj0&usqp=CAUjpg)
 
 
 ##### SI LLEGO HASTA AQUI Y TIENE ALGUNA QUEJA, BURLA O COMENTARIO COMINIQUESE CONMIGO 0998257797
