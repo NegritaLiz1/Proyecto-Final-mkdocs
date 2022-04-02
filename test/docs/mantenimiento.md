@@ -87,3 +87,5 @@ Pero es necesario que tu pc se encuentre en un lugar adecuado donde no tenga muc
 
 ##### SI LLEGO HASTA AQUI Y TIENE ALGUNA QUEJA, BURLA O COMENTARIO COMINIQUESE CONMIGO 0998257797
 
+
+
