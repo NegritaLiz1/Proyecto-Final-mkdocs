@@ -25,6 +25,8 @@ Este diseño comenzó con la elección de un microcontrolador para determinar la
     *LCD 16x2
     *Teclado matricial
     *LED
+    *LED ROJA
+
 
 Comenzamos armando el circuito en Proteus utilizando los componenetes detallados en la siguiente imagen, así como, también, empezamos a conectarlos estructurando sus puertos a las entradas tando de la alarma, el LCD y teclado.
 
