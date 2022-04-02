@@ -1,4 +1,4 @@
-# *Mantenimiento de Ordenadores**
+# **Mantenimiento de Ordenadores**
 
 Las computadoras necesitan ser “limpiados” para mantenerse en perfectas condiciones.La vida útil de una computadora se puede prolongar.El polvo, calor, humedad, cargas eléctricas son puntos a tener en cuenta en el mantenimiento.Las “impurezas” de la energía eléctrica causan daños progresivos a nuestra PC.El encendido y apagado permanente de la PC es dañino para la PC.Los virus informáticos impiden un normal funcionamiento de la computadora.Los archivos temporales cargan demasiado la memoria de la PC.
 
