@@ -87,5 +87,5 @@ Pero es necesario que tu pc se encuentre en un lugar adecuado donde no tenga muc
 
 ##### SI LLEGO HASTA AQUI Y TIENE ALGUNA QUEJA, BURLA O COMENTARIO HAGALO SABER EN EL SIGUIENTE  VIDEO
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=bQgfIwUBbKo&ab_channel=RESIDENTEJG)
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=bQgfIwUBbKo&ab_channel=RESIDENTEJG)
 
