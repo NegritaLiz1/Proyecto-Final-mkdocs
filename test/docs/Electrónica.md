@@ -28,21 +28,21 @@ Este diseño comenzó con la elección de un microcontrolador para determinar la
 
 Comenzamos armando el circuito en Proteus utilizando los componenetes detallados en la siguiente imagen, así como, también, empezamos a conectarlos estructurando sus puertos a las entradas tando de la alarma, el LCD y teclado.
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/262442999_1010756799797461_1723404062109193820_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHrdhPSAVfhbGsrfq-g92ELEBuP8BV-4jcQG4_wFX7iNz0uNJ8IsCVif5qaikw0mNeVsaiMMFymKsYmRBx_9rHs&_nc_ohc=-sDk70J0RWMAX8tfUGM&_nc_ht=scontent.fgye15-1.fna&oh=03_AVJBhai7nJnThHdhVMNudx-ffgmKMi1C_WantyY8slQKmQ&oe=620F6956)
+![Visualización](https://scontent.floh3-1.fna.fbcdn.net/v/t39.30808-6/277757930_513559650388346_7949498111047992871_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFd1p-CVJfgLToUH3AIvwwy-gRyoWEagN_6BHKhYRqA39wZNsborwCwF8DfmBLKjuxcrgCYhIm4GZ0D-dSvlURC&_nc_ohc=6n1Wp4kPeEsAX8l3Z1o&_nc_ht=scontent.floh3-1.fna&oh=00_AT-4iT9tCp-7-r29NAx8OL4E70fRmZRerB96OdvrIeDefw&oe=624D108A)
 
 Utlizamos el puerto_d para asignarlo a la conexion hecha con el LCD, todos los pines del puerto D fueron utilizados exepto el pin D3.
 El puerto_b fue utilizado para conectar sus pines con los pines del teclado matricial.
 Del puerto_a se seleccionó el pin A0 y A1 para la conexion de la alarma, obteniendo el siguiete resultado.
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/271945599_1101262294024961_5414310471808148752_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=preu6p3F3isAX9GtwHe&_nc_ht=scontent.fgye15-1.fna&oh=03_AVIRL-quB8-r2PXWX4m-whNA5SEu5ap7aFaCNALNv1lqsw&oe=6207CF21)
+![Visualización](https://scontent.floh3-1.fna.fbcdn.net/v/t39.30808-6/277753995_513558457055132_1712395369225395010_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF1E9wYBSbZgl7Cn98g2Gp4_In3hMWIDwT8ifeExYgPBF-0N4pFI4GrSKttVy4ciIPcYlUxwJQoZChDi5ulKI34&_nc_ohc=Fjtnp8HIoOwAX-sKA6Y&_nc_ht=scontent.floh3-1.fna&oh=00_AT8FG_QQuoVwyiFvTNN5PQGD_CUZmAeT-1TeKjRgLGVCIQ&oe=624CDAC0)
 
 «En esta imagen se presenta la primera fase de ejecución de la alarma, en donde en la pantalla LCD se muestra la informacion que indica que debe ingresar un dígito, en este caso la clave consta de tres números los cuales al ingresarlos no se visualizaran por seguridad, solo se visualizará el conteo de los números ingresados.»
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/270196502_3104823786514355_6624600922579693845_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=qQLWfKuKuUoAX_QWPMC&tn=LMMBg2VQO9lvaRNT&_nc_ht=scontent.fgye15-1.fna&oh=03_AVINAWoXn6GHfaI8sa4jJQ4jxEovF3_lcy-R5fLzc0QdjA&oe=62063939)
+![Visualización](https://scontent.floh3-1.fna.fbcdn.net/v/t39.30808-6/277817462_513557207055257_8112643043527306654_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH59p_AcEsKemHcQJWBU4hHfVyNCTXTKrt9XI0JNdMqu-8td83zXbmhie5UAwfIewCkNv_6JHxoP_1Igsc5jQ56&_nc_ohc=g8wzfTz5ZmgAX94Biuc&tn=ZY6xOTCubUHLZPh0&_nc_ht=scontent.floh3-1.fna&oh=00_AT-3-1mx47EY28oobNlU_x891JNrzF3Diw_lAnBTim3w8g&oe=624C10E7)
 
 «En esta imagen se muestra que de haber ingresado el código de la clave correcto la puerta se abre.»
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/269612598_3055345594725512_2327513736707238607_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=zMY-PyWVrqkAX-IY_ZI&_nc_ht=scontent.fgye15-1.fna&oh=03_AVJpUbuXstiQ2r7ipDjD1j4q1y0KuRlbkfEveWIY3YNwug&oe=6208BA2C)
+![Visualización](https://scontent.floh3-1.fna.fbcdn.net/v/t39.30808-6/277737324_513557347055243_9185056387977982653_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEwY-Sp-jL2WbH_XWDuanGdlt3sGyZsPZiW3ewbJmw9mGajPB9-QXsSQ07gbrPr7Ugkhyc0e8v4JciFG5g-rwWC&_nc_ohc=LUkn6Xt3nycAX-DPzOT&_nc_ht=scontent.floh3-1.fna&oh=00_AT-OxZUVdHDIKrozPR2CknqOBO6K_H_boBGA7xJStXSbIg&oe=624BB550)
 
 «En esta imagen se muestra que de haber ingresado el código de la clave incorrectamente la puerta se bloquea y la alarma comienza a sonar.»
 
