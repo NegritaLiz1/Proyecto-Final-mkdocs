@@ -88,7 +88,8 @@ En esta fase final se puede observar una ventana donde advierte que si los archi
 seleccionar están elegidos correctamente ya que la información que se elimine no
 podrá volver a recuperarse.
 
-##  ![Image text](https://sc.filehippo.net/images/t_app-cover-m,f_auto/p/63fe40b6-9b28-11e6-b84c-00163ed833e7/138675837/bleachbit-2.jpg)
+##  ![Image text](https://geekland.eu/wp-content/uploads/2013/02/bleachbit-limpiar-lupa.png)
+
 
 Por último, una vez ejecutada la limpieza se puede observar en la parte derecha correspondiente a la vista previa la
 contabilización de los archivos que han sido previamente eliminados.
