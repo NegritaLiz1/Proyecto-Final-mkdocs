@@ -4,11 +4,15 @@ Para el diseño de este circuito utilizaremos los programas Proteus y Pic C Copi
 
 * Pic C Copiler
 
+Este programa es un software cuya función principal es la programación de MCU. Tiene una rica biblioteca de dispositivos de la serie PIC, utiliza el lenguaje de programación C y utiliza el tipo de archivo Proyecto. Y cargarlo desde Proteus para hacerlo visible y compatible para que el microcontrolador pueda leerlo.
+
 ![Visualización](https://automatizacionduoc.files.wordpress.com/2017/09/images.jpg)
 
 Clic para más información sobre este programa. [Más información](http://codigoelectronica.com/blog/introduccion-a-pic-c-compiler).
 
 * Proteus
+
+Este programa es un software cuya función principal es la programación de MCU. Tiene una rica biblioteca de dispositivos de la serie PIC, utiliza el lenguaje de programación C y utiliza el tipo de archivo Proyecto. Y cargarlo desde Proteus para hacerlo visible y compatible para que el microcontrolador pueda leerlo.
 
 ![Visualización](https://softwaredescargas.com/wp-content/uploads/2021/08/proteus-professional-v810-sp0-build-292030-espanol.webp.webp)
 
