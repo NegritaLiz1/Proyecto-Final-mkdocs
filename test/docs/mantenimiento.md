@@ -85,7 +85,8 @@ Pero es necesario que tu pc se encuentre en un lugar adecuado donde no tenga muc
 ## ![Image text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIRE_LzTZ72MtbOzkPbHQ_vP-gessFu8YsD19-EX_IdmAuqHa0cAMLo9oVWRg2Nm8sj0&usqp=CAUjpg)
 
 
-##### SI LLEGO HASTA AQUI Y TIENE ALGUNA QUEJA, BURLA O COMENTARIO COMINIQUESE CONMIGO 0998257797
+##### SI LLEGO HASTA AQUI Y TIENE ALGUNA QUEJA, BURLA O COMENTARIO HAGALO SABER EN EL SIGUIENTE LINK https://www.youtube.com/watch?v=bQgfIwUBbKo&ab_channel=RESIDENTEJG
+
 
 
 
