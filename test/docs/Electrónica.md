@@ -4,13 +4,13 @@ Para el diseño de este circuito utilizaremos los programas Proteus y Pic C Copi
 
 * Pic C Copiler
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/271281178_855031145247313_3084251169720901823_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeEZR_37Rleu7TddSQlwSo2Gifm2VwbUI8yJ-bZXBtQjzBht1JrTjcYI63Uxbt0nR4pxD_jLLFrjsPXxOzoBj6Xh&_nc_ohc=x-c7M-J4q5sAX_UGjRq&_nc_ht=scontent.fgye15-1.fna&oh=03_AVKnJ_tgRTLNVIMt8kTpBPDmzbN6sj63I2nUhJ5AGzQYFg&oe=620F8CB4)
+![Visualización](https://automatizacionduoc.files.wordpress.com/2017/09/images.jpg)
 
 Clic para más información sobre este programa. [Más información](http://codigoelectronica.com/blog/introduccion-a-pic-c-compiler).
 
 * Proteus
 
-![Visualización](https://scontent.fgye15-1.fna.fbcdn.net/v/t1.15752-9/268141716_423347199485669_6803999816136316825_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=ae9488&_nc_ohc=PK5Dofx4w24AX-xauuI&_nc_ht=scontent.fgye15-1.fna&oh=03_AVK4u85F-my5jisFlfefekKDS6q6SE0t9wGTS8Iijm4Ykw&oe=6208DA6B)
+![Visualización](https://softwaredescargas.com/wp-content/uploads/2021/08/proteus-professional-v810-sp0-build-292030-espanol.webp.webp)
 
 Clic para más información sobre este programa. [Más información](https://www.hubor-proteus.com/proteus-pcb/proteus-pcb/2-proteus.html).
 
